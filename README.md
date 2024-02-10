@@ -12,7 +12,7 @@ I am currently learning at AAU and enrolled at A2SV<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Crackingastro&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/addisu-mengistu-bb1a26244) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/CrackingAstro) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/addisu-mengistu-bb1a26244)
 
 ---
 
