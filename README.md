@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Cracking Astro<br><br>Just a guy trying to make the world a better place<br><br>🚀 About Me<br>🧠 Machine Learning Engineer<br>🛠️ I build awesome ML projects (and break things… then fix them again)<br>🛰️ Deployed ML code in space for a CubeSat mission<br>🌍 Passionate about solving real-world problems <br><br>🔗 Portfolio<br>Check out my work: [crackingastro.tech](https://crackingastro.tech/)]
+👋 Hi, I'm Cracking Astro<br><br>Just a guy trying to make the world a better place<br><br>🚀 About Me<br>🧠 Machine Learning Engineer<br>🛠️ I build awesome ML projects (and break things… then fix them again)<br>🛰️ Deployed ML code in space for a CubeSat mission<br>🌍 Passionate about solving real-world problems <br><br>🔗 Portfolio<br>Check out my work: [crackingastro.tech](https://crackingastro.tech/)
 
 
 ## 🌐 Socials:
