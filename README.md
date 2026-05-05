@@ -39,21 +39,6 @@
 
 &nbsp;
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Crackingastro&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&border_radius=12" width="49%" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=Crackingastro&theme=shadow_green&hide_border=true&border_radius=12" width="49%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crackingastro&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=12" width="42%" />
-
-</div>
-
-&nbsp;
-
 <div align="center">
   
 *✨ If you like what I do, consider giving my repos a ⭐*
