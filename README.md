@@ -1,17 +1,61 @@
-# 💫 About Me:
-👋 Hi, I'm Addisu<br><br>Just a guy trying to make the world a better place<br><br>About Me<br>🧠 Machine Learning Engineer<br>🛠️ I build awesome ML projects (and break things… then fix them again)<br>🛰️ Deployed ML code in space for a CubeSat mission<br>🌍 Passionate about solving real-world problems <br><br>🔗 Portfolio<br>Check out my work: [crackingastro.tech](https://crackingastro.tech/)
+<div align="center">
 
+# Hey, I'm Addisu 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/addisu-mengistu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/crackingastro) 
+### *Just a guy trying to make the world a better place*
 
-# 💻 Tech Stack:
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+&nbsp;
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Crackingastro&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Crackingastro&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Crackingastro&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="28" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="28" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="28" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="28" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="28" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="28" />
 
----
+&nbsp;
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/addisu-mengistu)&nbsp;
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/crackingastro)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://crackingastro.tech/)
+
+</div>
+
+&nbsp;
+
+## 🧠 About Me
+
+```text
+🔬  Machine Learning Engineer
+🛰️  Deployed ML code in space for a CubeSat mission
+🌍  Passionate about solving real-world problems
+🛠️  I build awesome ML projects (and break things… then fix them again)
+```
+
+&nbsp;
+
+## ⚡ Tech Stack
+
+| Category | Technologies |
+|:---------|:------------|
+| **Languages** | Python · TypeScript |
+| **ML / DL** | TensorFlow · PyTorch |
+| **DevOps** | Docker · Raspberry Pi |
+
+&nbsp;
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Crackingastro&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&border_radius=12" width="49%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Crackingastro&theme=shadow_green&hide_border=true&border_radius=12" width="49%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crackingastro&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=12" width="42%" />
+
+</div>
+
+&nbsp;
+
+<div align="center">
+  
+*✨ If you like what I do, consider giving my repos a ⭐*
+
+</div>
